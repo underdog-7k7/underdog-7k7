@@ -4,6 +4,8 @@
 
 <p align="left">👋 Hey there! I'm Animesh, a final year undergrad on a mission to master the world of coding. Here's a quick overview:<br><br>🚀 Started my coding journey in 2020 with C, diving into the basics of programming.<br><br>☕ Java is my go-to language, where I've built a strong foundation and love crafting solutions.<br><br>📱 Currently delving into Kotlin for native Android development, aiming to create sleek and powerful mobile apps, might as well start React Native for going cross platform<br><br>💡 I'm handy with C and Embedded C, especially for Arduino projects, bringing ideas to life.<br><br>📊 Familiar with RoomDB and MongoDB for efficient data management in my projects.<br><br>🌱 Always eager to learn and grow, let's connect and code something amazing together!</p>
 
+<p>More about me on my portfolio: </p><a href="https://underdog-7k7.github.io/Portfolio-Website/">Click here</a>
+
 ###
 
 <h3 align="left">Programming Familiarity</h3>

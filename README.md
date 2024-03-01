@@ -4,7 +4,7 @@
 
 <p align="left">👋 Hey there! I'm Animesh, a final year undergrad CSE Student. Here's a quick overview:<br>
 <br>🚀 Started my coding journey in 2020 with C, diving into the basics of programming.<br>
-<br>☕ Java is my go-to language, where I've built a strong foundation and love crafting solutions.<br>
+<br>☕ Java is my go-to language, that made me have a strong foundation in Object Oriented Programming<br>
 <br>📱 Currently delving into Kotlin for native Android development, aiming to create mobile apps that can convert my silly or small ideas into a handheld reality, might as well start React Native for going cross platform<br>
 <br>💡 I'm handy with C and Embedded C, especially for Arduino projects, bringing ideas to life.<br>
 <br>📊 Familiar with RoomDB and MongoDB for efficient data management in my projects.<br>

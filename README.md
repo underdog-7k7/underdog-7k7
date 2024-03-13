@@ -6,7 +6,7 @@
 <br>🚀 Started my coding journey in 2020 with C, diving into the basics of programming.<br>
 <br>☕ Java is my go-to language, that made me have a strong foundation in Object Oriented Programming<br>
 <br>📱 Currently delving into Kotlin for native Android development, aiming to create mobile apps that can convert my silly or small ideas into a handheld reality, might as well start React Native for going cross platform<br>
-<br>💡 I'm handy with C and Embedded C, especially for Arduino projects, bringing ideas to life.<br>
+<br>💡 I'm handdy with C and Embedded C, especially for Arduino projects, bringing ideas to life.<br>
 <br>📊 Familiar with RoomDB and MongoDB for efficient data management in my projects.<br>
 <br>🌱 Always eager to learn and grow, let's connect and code something amazing together!</p>
 

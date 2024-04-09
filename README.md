@@ -22,15 +22,39 @@
 
 
 ###
-<div style="display: flex; justify-content: space-around; align-items: center; padding: 20px; background-color: #f0f0f0;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
+<div style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f0f0f0;">
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+   <span style="margin-left: 10px;">Java</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+   <span style="margin-left: 10px;">Kotlin</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+   <span style="margin-left: 10px;">Python</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+   <span style="margin-left: 10px;">Arduino</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+   <span style="margin-left: 10px;">C++</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+   <span style="margin-left: 10px;">C</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+   <span style="margin-left: 10px;">R</span>
+ </div>
+ <div style="display: flex; align-items: center;">
+   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
+   <span style="margin-left: 10px;">JavaScript</span>
+ </div>
 </div>
 
 ###

@@ -8,9 +8,9 @@
 <br>📱 Currently delving into Kotlin for native Android development, aiming to create mobile apps that can convert my silly or small ideas into a handheld reality, might as well start React Native for going cross platform<br>
 <br>💡 I'm handdy with C and Embedded C, especially for Arduino projects, bringing ideas to life.<br>
 <br>📊 Familiar with RoomDB and MongoDB for efficient data management in my projects.<br>
-<br>🌱 Always eager to learn and grow, let's connect and code something amazing together, Do ping me up!</p>
+<br>🌱 Always eager to learn and grow, let's connect and code something amazing together, Do ping me up.</p>
 
-<a href="https://underdog-7k7.github.io/Portfolio-Website/">More about me on my portfolio,Click here!</a>
+<a href="https://underdog-7k7.github.io/Portfolio-Website/">More about me on my portfolio,Click here.</a>
 
 ###
 

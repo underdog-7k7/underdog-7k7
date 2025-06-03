@@ -87,6 +87,7 @@
 ---
 
 <p align="center">
+  <h3>Watch my contributions being eaten up by a snake</h3>
   <img src="https://raw.githubusercontent.com/underdog-7k7/underdog-7k7/main/output/snake.svg" alt="Snake animation" />
 </p>
 

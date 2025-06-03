@@ -87,8 +87,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/underdog-7k7/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/underdog-7k7/underdog-7k7/main/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ### ⭐️ _Thanks for visiting!_  
 <p align="center">

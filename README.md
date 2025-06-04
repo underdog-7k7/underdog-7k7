@@ -45,9 +45,6 @@
   <sub>Java</sub> &nbsp; <sub>Kotlin</sub> &nbsp; <sub>Python</sub> &nbsp; <sub>Arduino</sub> &nbsp; <sub>C++</sub> &nbsp; <sub>C</sub> &nbsp; <sub>R</sub> &nbsp; <sub>JavaScript</sub> &nbsp; <sub>MongoDB</sub> &nbsp; <sub>Android</sub>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underdog-7k7&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" height="180"/>
-</p
 
 ---
 

@@ -10,14 +10,13 @@
 ---
 
 ## 🚀 About Me
+- Ideas(even the silly ones) and possibilites excite me, regardless of the stack of implementation(thanks AI)
+- 'Why' centric
+- Open for collaboration on cool(and challenging) project ideas/ opportunities
+- Tech geek, geopolitics, physics.
+- More about me when we connect.
 
-- 🎓 **2024 Computer Science Graduate** from VIT Vellore
-- 💻 Started my coding journey in 2020 with C, building a strong programming foundation
-- ☕ **Java** is my go-to language, giving me a strong grip on OOP
-- 📱 Currently diving into **Kotlin** for native Android apps (React Native next!)
-- 🤖 Handy with **C/Embedded C** for Arduino & hardware projects
-- 🗃️ Experienced with **RoomDB** and **MongoDB** for data management
-- 🌱 Always eager to learn and build cool stuff—let’s connect!
+
 
 <p align="center">
   <a href="https://underdog-7k7.github.io/Portfolio-Website/" target="_blank">
@@ -30,17 +29,25 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"/>
+  <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
+  <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
+  <a href="https://www.arduino.cc/" title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/></a>
+  <a href="https://www.r-project.org/" title="R"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
+  <a href="https://www.android.com/" title="Android"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"/></a>
 </p>
+
+<p align="center">
+  <sub>Java</sub> &nbsp; <sub>Kotlin</sub> &nbsp; <sub>Python</sub> &nbsp; <sub>Arduino</sub> &nbsp; <sub>C++</sub> &nbsp; <sub>C</sub> &nbsp; <sub>R</sub> &nbsp; <sub>JavaScript</sub> &nbsp; <sub>MongoDB</sub> &nbsp; <sub>Android</sub>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underdog-7k7&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" height="180"/>
+</p
 
 ---
 

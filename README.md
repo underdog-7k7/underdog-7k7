@@ -4,11 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hello!;Hola!;Bonjour!;Willkommen!;Ciao!;Olá!;Sveiki!;Hej!;Salve!;Hallo!" alt="Hello in 10 languages Typing SVG" />
+  Welcome! | ¡Bienvenido! | Bienvenue! | Willkommen! | Benvenuto! | Bem-vindo! | Sveiki atvykę! | Välkommen! | Добро пожаловать! | 欢迎!
 </p>
-
-
-
 
 ---
 

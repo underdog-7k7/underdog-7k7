@@ -83,12 +83,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-> *“I love turning small, silly ideas into real, working apps!”*  
-> *Let’s build something awesome together!*
-
----
 
 <p align="center">
   <h3>Watch my contributions being eaten up by a snake</h3>
@@ -96,7 +90,7 @@
 </p>
 
 
-### ⭐️ _Thanks for visiting!_  
+### ⭐️ _Looking forward to connecting with you!_  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=underdog-7k7&style=flat-square&color=blue" alt="Profile views"/>
 </p>

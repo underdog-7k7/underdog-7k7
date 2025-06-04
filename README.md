@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  Hello! | ¡Hola! | Bonjour! | Willkommen! | Ciao! | नमस्ते! | こんにちは! | Привет! | 欢迎! | مرحبا!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hello!;Hola!;Bonjour!;Willkommen!;Ciao!;Olá!;Sveiki!;Hej!;Salve!;Hallo!" alt="Hello in 10 languages Typing SVG" />
 </p>
+
 
 
 

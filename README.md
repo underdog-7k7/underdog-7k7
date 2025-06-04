@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Success%20usually%20comes%20to%20those%20who%20are%20too%20busy%20to%20be%20looking%20for%20it.%20-%20Henry%20David%20Thoreau;It%20does%20not%20matter%20how%20slowly%20you%20go%20as%20long%20as%20you%20do%20not%20stop.%20-%20Confucius;Believe%20you%20can%20and%20you're%20halfway%20there.%20-%20Theodore%20Roosevelt;The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams.%20-%20Eleanor%20Roosevelt;Dream%20big%20and%20dare%20to%20fail.%20-%20Norman%20Vaughan;Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20-%20C.S.%20Lewis;Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20It%20is%20the%20courage%20to%20continue%20that%20counts.%20-%20Winston%20Churchill;Everything%20you've%20ever%20wanted%20is%20on%20the%20other%20side%20of%20fear.%20-%20George%20Addair;Opportunities%20don't%20happen.%20You%20create%20them.%20-%20Chris%20Grosser;Don't%20watch%20the%20clock%3B%20do%20what%20it%20does.%20Keep%20going.%20-%20Sam%20Levenson" alt="Motivational Quotes Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hello!;¡Hola!;Bonjour!;Willkommen!;Ciao!;नमस्ते!;こんにちは!;Привет!;欢迎!;مرحبا!" alt="Hello in 10 languages Typing SVG" />
 </p>
 
 
